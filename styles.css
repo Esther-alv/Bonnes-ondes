@@ -1,1 +1,33 @@
+body {
+    background-color: #f4f4f4;
+    font-family: calibri;
+    color: #333;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 30px;
+    color: #ba568f;
+}
+
+nav {
+    background-color: #ffb726;
+    color: #ff910a;
+    padding: 10px 0;
+}
+
+h2 {
+    color: #91305f;
+}
+
+h3 {
+    color: #bf84f0;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-block: 20px;
+}
+
 
